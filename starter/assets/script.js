@@ -99,6 +99,8 @@ function showQuestion(question) {
     });
 }
 
+
+
 function resetState() {
     while (answerButtons.firstChild) {
         answerButtons.removeChild(answerButtons.firstChild);
