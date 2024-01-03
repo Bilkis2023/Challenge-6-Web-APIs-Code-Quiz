@@ -109,8 +109,14 @@ function resetState() {
 
 function selectAnswer(answer) {
     if (answer.correct) {
+        var message = document.getElementById("correct")
+        message.textContent= "correct"
+
         score++;
     } else {
+        var message = document.getElementById("correct")
+        message.textContent= "incorrect"
+
         timeLeft -= 10; // Subtract 10 seconds for incorrect answer
     }
     currentQuestionIndex++;
@@ -136,6 +142,9 @@ function endQuiz() {
 }
 
 function saveScore() {
+    var highscore = score
+    localStorage.setitem("highScore", highscore)
+
     const initials = initialsInput.value.trim();
     if (initials !== '') {
         // Implement your logic to save the score with initials
