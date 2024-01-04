@@ -11,7 +11,7 @@ By creating a multiple-question quiz can serve several purpose:
 
 ## Images:
 
-![schreenShot of the Quiz web browser](./Screenshort/Quiz Screenshot.jpg)
+![schreenShot of the Quiz web browser](./Screenshort/Quiz%20Screenshot.jpg)
 
 
 
