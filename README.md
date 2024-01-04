@@ -2,6 +2,13 @@
 
 ## Description:
 
+By creating a multiple-question quiz can serve several purpose:
+- Education and learning.
+- Assessment.
+- Interactive Content.
+- Feedback and Improvement.
+- Entertainment
+
 ## Images:
 
 ![schreenShot](.starter/assets/Quiz Screenshot.jpg)
