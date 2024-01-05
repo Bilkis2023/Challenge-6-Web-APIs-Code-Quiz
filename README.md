@@ -13,7 +13,8 @@ By creating a multiple-question quiz can serve several purpose:
 <br>
 
 <br>
-## Images:
+
+   # Image:
 
 ![schreenShot of the Quiz web browser](./Screenshort/ScreenShot-2.jpg)
 
