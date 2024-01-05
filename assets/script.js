@@ -146,6 +146,7 @@ function saveScore() {
     const initials = initialsInput.value.trim();
     if (initials !== '') {
         // Implement your logic to save the score with initials
+        localStorage.setItem("")
         alert(`Score saved for ${initials}: ${score}`);
     } else {
         alert('Please enter your initials.');
